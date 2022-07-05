@@ -1,0 +1,45 @@
+.orange-color {
+    color: orange;
+}
+
+.half-width {
+    width: 50%
+}
+
+.half-width img {
+    width: 80%;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+.top-background-image {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin: 0;
+}
+
+section {
+    padding: 10px;
+}
+
+.banner2 {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no;
+}
